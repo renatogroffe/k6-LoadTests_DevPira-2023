@@ -1,0 +1,1 @@
+k6 run loadtests-http-contagem-local.js --vus 10 --iterations 200
